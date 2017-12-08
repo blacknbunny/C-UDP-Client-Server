@@ -6,7 +6,7 @@ C UDP Protocol Client And Server
 ``` gcc udpserver.c -o udpserver ```
 
 
-## Compiling TCP Client
+## Compiling UDP Client
 
 ``` gcc udpclient.c -o udpclient ```
 
